@@ -38,3 +38,5 @@ pytest_cache/
 *.pyd
 allure-report/
 allure_results
+.coverage
+htmlcov
